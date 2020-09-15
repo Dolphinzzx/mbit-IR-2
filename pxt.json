@@ -1,0 +1,21 @@
+{
+    "name": "keyestudio-IR-remote",
+    "version": "0.0.6",
+    "description": "keyestudio Infrared Wireless Module Kit for microbit.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj",
+    "icon": "icon.png",
+    "installedVersion": "workspace:7b15ebfa-06d7-4c34-b272-5e68af16d967"
+}
