@@ -170,5 +170,5 @@ namespace irReceiver {
         return button as number;
     }
 	*/
-
+}
 
